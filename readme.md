@@ -183,7 +183,7 @@ If this is you, I'd like to congratulate you on your badassery. I have been foll
 
   
 
-- *I am currently for hire, you can contact me at duckdegen@gmail.com or using this handle on the usual platforms*
+- *I am currently for hire, you can contact me at megabrain356@gmail.com or using this handle on the usual platforms*
 
 - I have 10+ years experience in building software using JS/TS/node
 
@@ -211,4 +211,4 @@ I will only accept payments in crypto.
   
 
 ## Do you feel the urge to send me some crypto? 
-   Plz send donations to apebot.eth
+   Plz send donations to 0xf205646977e946bbe3bc96050016d51765869475
